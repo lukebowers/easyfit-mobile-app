@@ -1,0 +1,85 @@
+1,Barbell Bench Press,Chest,Basic,Freeweights,https://exrx.net/WeightExercises/PectoralSternal/BBBenchPress
+2,Barbell Shoulder Press,Shoulders,Basic,Freeweights,https://exrx.net/WeightExercises/DeltoidAnterior/BBShoulderPress
+3,Cable Standing Fly,Chest,Auxiliary,Machine,https://exrx.net/WeightExercises/PectoralSternal/CBStandingFly
+4,Handstand Shoulder Press,Shoulders,Basic,None,https://exrx.net/WeightExercises/DeltoidAnterior/BWHandstandPressBench
+5,Lever Shoulder Press,Shoulders,Basic,Machine,https://exrx.net/WeightExercises/DeltoidAnterior/LVShoulderPress
+6,Push-up,Chest,Basic,None,https://exrx.net/WeightExercises/PectoralSternal/BWPushup
+7,Barbell Bent-over Row,Back,Basic,Freeweights,https://exrx.net/WeightExercises/BackGeneral/BBBentOverRow
+8,Cambered Bar Lying Row,Back,Compound,Freeweights,https://exrx.net/WeightExercises/BackGeneral/CamberedBarLyingRow
+9,Cable One Arm Bent-over Row,Back,Auxiliary,Machine,https://exrx.net/WeightExercises/BackGeneral/CBOneArmBentoverRow
+10,Dumbbell Bent-over Row,Back,Basic,Freeweights,https://exrx.net/WeightExercises/BackGeneral/DBBentOverRow
+11,Barbell Military Press,Shoulders,Basic,Freeweights,https://exrx.net/WeightExercises/DeltoidAnterior/BBMilitaryPress
+12,Cable Seated Fly,Chest,Auxiliary,Machine,https://exrx.net/WeightExercises/PectoralSternal/CBSeatedFly
+13,Machine-assisted Chest Dip,Chest,Basic,Machine,https://exrx.net/WeightExercises/PectoralSternal/AsChestDip
+14,Chest Dip,Chest,Basic,None,https://exrx.net/WeightExercises/PectoralSternal/BWChestDip
+15,Barbell Decline Bench Press,Chest,Basic,Freeweights,https://exrx.net/WeightExercises/PectoralSternal/BBDeclineBenchPress
+16,Cable Upright Row,Shoulders,Basic,Machine,https://exrx.net/WeightExercises/DeltoidLateral/CBUprightRow
+17,Dumbbell Upright Row,Shoulders,Basic,Freeweights,https://exrx.net/WeightExercises/DeltoidLateral/DBUprightRow
+18,Barbell Upright Row,Shoulders,Basic,Freeweights,https://exrx.net/WeightExercises/DeltoidLateral/BBUprightRow
+19,Barbell Rear Delt Raise,Shoulders,Auxiliary,Freeweights,https://exrx.net/WeightExercises/DeltoidPosterior/BBRearDeltRaise
+20,Cable Reverse Fly,Shoulders,Auxiliary,Machine,https://exrx.net/WeightExercises/DeltoidPosterior/CBStandingReverseFly
+21,Cable Rear Delt Row,Shoulders,Basic,Machine,https://exrx.net/WeightExercises/DeltoidPosterior/CBRearDeltRow
+22,Dumbbell Rear Lateral Raise,Shoulders,Auxiliary,Freeweights,https://exrx.net/WeightExercises/DeltoidPosterior/DBRearLateralRaise
+23,Dumbbell Rear Delt Row,Shoulders,Basic,Freeweights,https://exrx.net/WeightExercises/DeltoidPosterior/DBRearDeltRow
+24,Pike Press,Shoulders,Basic,None,https://exrx.net/WeightExercises/DeltoidAnterior/BWPikePress
+25,Decline Pike Press,Shoulders,Basic,None,https://exrx.net/WeightExercises/DeltoidAnterior/BWDeclinePikePress
+26,Barbell Underhand Bent-over Row,Back,Basic,Freeweights,https://exrx.net/WeightExercises/BackGeneral/BBUnderhandBentOverRow
+27,Dumbbell Lying Row,Back,Basic,Freeweights,https://exrx.net/WeightExercises/BackGeneral/DBLyingRow
+28,Inverted Row,Back,Basic,None,https://exrx.net/WeightExercises/BackGeneral/BWSupineRow
+29,Underhand Inverted Row,Back,Basic,None,https://exrx.net/WeightExercises/BackGeneral/BWUnderhandSupineRow
+30,Cable One Arm Seated Row,Back,Auxiliary,Machine,https://exrx.net/WeightExercises/BackGeneral/CBOneArmHighRow
+31,Cable Standing Row,Back,Auxiliary,Machine,https://exrx.net/WeightExercises/BackGeneral/CBOneArmStandingRow
+32,Cable Seated Row,Back,Basic,Machine,https://exrx.net/WeightExercises/BackGeneral/CBSeatedRow
+33,Machine-assisted Triceps Dip,Triceps,Basic,Machine,https://exrx.net/WeightExercises/Triceps/ASTriDip
+34,Barbell Close Grip Bench Press,Triceps,Basic,Freeweights,https://exrx.net/WeightExercises/Triceps/BBCloseGripBenchPress
+35,Barbell Lying Triceps Extension,Triceps,Basic,Freeweights,https://exrx.net/WeightExercises/Triceps/BBLyingTriExt
+36,Skull Crusher,Triceps,Basic,Freeweights,https://exrx.net/WeightExercises/Triceps/BBLyingTriExtSC
+37,Cable Pushdown,Triceps,Auxiliary,Machine,https://exrx.net/WeightExercises/Triceps/CBPushdown
+38,Dumbbell Kickback,Triceps,Auxiliary,Freeweights,https://exrx.net/WeightExercises/Triceps/DBKickback
+39,Dumbbell Lying Triceps Extension,Triceps,Auxiliary,Freeweights,https://exrx.net/WeightExercises/Triceps/DBLyingTriExt
+40,Bench Dip,Triceps,Basic,None,https://exrx.net/WeightExercises/Triceps/BWBenchDip
+41,Close Grip Pushup,Triceps,Basic,None,https://exrx.net/WeightExercises/Triceps/BWCloseGripPushup
+42,Triceps Dip,Triceps,Basic,None,https://exrx.net/WeightExercises/Triceps/BWTriDip
+43,Incline Push-up,Chest,Basic,None,https://exrx.net/WeightExercises/PectoralSternal/BWInclinePushup
+44,Barbell Curl,Biceps,Basic,Freeweights,https://exrx.net/WeightExercises/Biceps/BBCurl
+45,Dumbbell Curl,Biceps,Basic,Freeweights,https://exrx.net/WeightExercises/Biceps/DBCurl
+46,Dumbbell Incline Curl,Biceps,Auxiliary,Freeweights,https://exrx.net/WeightExercises/Biceps/DBInclineCurl
+47,Lever Preacher Curl,Biceps,Auxiliary,Machine,https://exrx.net/WeightExercises/Brachialis/LVPreacherCurl
+48,Cable Curl,Biceps,Basic,Machine,https://exrx.net/WeightExercises/Biceps/CBCurl
+49,Chin-up,Back,Basic,None,https://exrx.net/WeightExercises/LatissimusDorsi/BWUnderhandChinup
+50,Cable One Arm Curl,Biceps,Auxiliary,Machine,https://exrx.net/WeightExercises/Biceps/CBOneArmCurl
+51,Cable Twisting Standing High Row,Back,Auxiliary,Machine,https://exrx.net/WeightExercises/BackGeneral/CBStandingTwistingHighRow
+52,Dumbbell Bench Press,Chest,Basic,Freeweights,https://exrx.net/WeightExercises/PectoralSternal/DBBenchPress
+53,Pull-up,Back,Basic,None,https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup
+54,Machine-assisted Pull-up,Back,Basic,Machine,https://exrx.net/WeightExercises/LatissimusDorsi/AsPullupKneeling
+55,Cable Pulldown,Back,Basic,Machine,https://exrx.net/WeightExercises/LatissimusDorsi/CBFrontPulldown
+56,Barbell Pullover,Back,Auxiliary,Freeweights,https://exrx.net/WeightExercises/LatissimusDorsi/BBPullover
+57,Cable Pullover,Back,Auxiliary,Machine,https://exrx.net/WeightExercises/LatissimusDorsi/CBPullover
+58,Barbell Shrug,Traps,Basic,Freeweights,https://exrx.net/WeightExercises/TrapeziusUpper/BBShrug
+59,Cable Shrug,Traps,Basic,Machine,https://exrx.net/WeightExercises/TrapeziusUpper/CBShrug
+60,Dumbbell Shrug,Traps,Basic,Freeweights,https://exrx.net/WeightExercises/TrapeziusUpper/DBShrug
+61,Inverted Shrug,Traps,Basic,None,https://exrx.net/WeightExercises/TrapeziusUpper/BWInvertedShrugPB
+62,Smith Shrug,Traps,Basic,Machine,https://exrx.net/WeightExercises/TrapeziusUpper/SMShrug
+63,Sit-up,Abs,Basic,None,https://exrx.net/WeightExercises/RectusAbdominis/BWSitUp
+64,Crunch,Abs,Auxiliary,None,https://exrx.net/WeightExercises/RectusAbdominis/BWCrunch
+65,V-up,Abs,Basic,None,https://exrx.net/WeightExercises/RectusAbdominis/WtVUp
+66,Jack-knife Sit-up,Abs,Basic,None,https://exrx.net/WeightExercises/RectusAbdominis/WtJackKnifeSitUp
+67,Barbell Push Sit-up,Abs,Basic,Freeweights,https://exrx.net/WeightExercises/RectusAbdominis/BBPushSitUp
+68,Dumbbell Push Sit-up,Abs,Basic,Freeweights,https://exrx.net/WeightExercises/RectusAbdominis/DBPushSitUp
+69,Barbell Push Crunch,Abs,Auxiliary,Freeweights,https://exrx.net/WeightExercises/RectusAbdominis/BBPushCrunch
+70,Dumbbell Push-Crunch,Abs,Auxiliary,Freeweights,https://exrx.net/WeightExercises/RectusAbdominis/DBPushCrunch
+71,Cable Kneeling Crunch,Abs,Auxiliary,Machine,https://exrx.net/WeightExercises/RectusAbdominis/CBKneelingCrunch
+72,Twisting Sit-up,Abs,Basic,None,https://exrx.net/WeightExercises/Obliques/BWTwistingSitUp
+73,Side Crunch,Abs,Auxiliary,None,https://exrx.net/WeightExercises/Obliques/BWSideCrunch
+74,Barbell Back Squat,Legs,Basic,Freeweights,https://exrx.net/WeightExercises/Quadriceps/BBFullSquat
+75,Barbell Front Squat,Legs,Auxiliary,Freeweights,https://exrx.net/WeightExercises/Quadriceps/BBFrontSquat
+76,Lunge,Legs,Auxiliary,None,https://exrx.net/WeightExercises/Quadriceps/BWLunge
+77,Seated Leg Press,Legs,Basic,Machine,https://exrx.net/WeightExercises/Quadriceps/LVSeatedLegPressH
+78,Leg Extension,Legs,Auxiliary,Machine,https://exrx.net/WeightExercises/Quadriceps/LVLegExtensionH
+79,Single Leg Squat,Legs,Basic,None,https://exrx.net/WeightExercises/Quadriceps/BWSingleLegSquat
+80,Barbell Straight Leg Deadlift,Legs,Basic,Freeweights,https://exrx.net/WeightExercises/Hamstrings/BBStraightLegDeadlift
+81,Lying Leg Curl,Legs,Basic,Machine,https://exrx.net/WeightExercises/Hamstrings/LVLyingLegCurlH
+82,Hanging Leg Curl,Legs,Auxiliary,None,https://exrx.net/WeightExercises/Hamstrings/BWHangingLegCurl
+83,Calf Raise,Legs,Basic,Machine,https://exrx.net/WeightExercises/Gastrocnemius/LV45CalfRaise
+84,Single Leg Calf Raise,Legs,Auxiliary,None,https://exrx.net/WeightExercises/Gastrocnemius/BWSingleLegCalfRaise
+85,Barbell Hip Thrust,Legs,Auxiliary,Freeweights,https://exrx.net/WeightExercises/GluteusMaximus/BBHipThrust

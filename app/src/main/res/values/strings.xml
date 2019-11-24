@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">easyfit_app</string>
+
+    <!-- MainActivity -->
+
+    <string name="content_welcome">Welcome to</string>
+    <string name="content_easyfit">EasyFit</string>
+    <string name="content_workout_generator">Workout Generator</string>
+    <string name="content_to_begin">Press \'Start\' to begin setting up your workout:</string>
+    <string name="action_start">Start</string>
+    <string name="action_view_saved">Saved Workouts</string>
+    <string name="action_view_all">Exercise Database</string>
+
+    <!-- LevelActivity -->
+
+    <string name="select_fit_level">Select fitness level:</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="action_next">Next</string>
+
+    <!-- GoalActivity -->
+
+    <string name="select_goal">Select fitness goal:</string>
+    <string name="strength">Strength</string>
+    <string name="size">Size</string>
+    <string name="conditioning">Conditioning</string>
+
+    <!-- MuscleGroupActivity -->
+
+    <string name="select_groups">Select muscle group(s):</string>
+    <string name="chest">Chest</string>
+    <string name="shoulders">Shoulders</string>
+    <string name="back">Back</string>
+    <string name="traps">Traps</string>
+    <string name="legs">Legs</string>
+    <string name="abs">Abs</string>
+    <string name="triceps">Triceps</string>
+    <string name="biceps">Biceps</string>
+
+    <!-- EquipmentActivity -->
+
+    <string name="select_equipment">Select equipment:</string>
+    <string name="freeweights">Freeweights</string>
+    <string name="machines">Gym machines</string>
+    <string name="no_equipment">No equipment</string>
+    <string name="action_generate">Generate Workout</string>
+
+    <!-- WorkoutActivity -->
+
+    <string name="save_workout">Save Workout</string>
+    <string name="shuffle_exercises">Shuffle Exercises</string>
+    <string name="title_activity_saved_workouts">SavedWorkoutsActivity</string>
+
+    <!-- SaveDialog -->
+
+    <string name="title_save">Name your workout: </string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="hint_workout_name">Enter workout name…</string>
+
+    <!-- EmptyDialog -->
+
+    <string name="title_empty">Oops!</string>
+    <string name="content_empty">This workout is empty. New exercises will be added soon.</string>
+
+    <!-- HelpDialog -->
+
+    <string name="title_help">How to use this app…</string>
+    <string name="content_help">Begin by pressing <b><i>Start</i></b> on the Home page.\n\nOn each
+        of the pages that follow, provide the app with information by selecting the options that
+        apply to you and pressing <b><i>Next</i></b>.\n\nAfter choosing your options you will be
+        prompted to press <b><i>Generate Workout</i></b>. Upon selection, your workout will be
+        displayed.\n\nPress <b><i>Shuffle Workout</i></b> to get new exercises or
+        <b><i>Save Workout</i></b> to use it again another time. Saved workouts can be accessed
+        from the Home page by pressing <b><i>Saved Workouts</i></b>.\n\n(<b>NOTE:</b> When selecting
+        a fitness level, we recommend choosing <b><i>Beginner</i></b> if you have been training for
+        less than a year, <b><i>Intermediate</i></b> for &#8211;3 years and
+        <b><it>Advanced</it></b> for more than 3 years of training.)</string>
+
+    <!-- AboutActivity -->
+
+    <string name="title_about">About this app…</string>
+    <string name="content_about"><b>EasyFit Workout Generator</b> is a smartphone application which
+    generates unique exercise programmes, or <i>workouts</i>, which are specifically tailored to the
+    needs of the user. The exercises for each workout are selected based on a combination of inputs
+    from the user and random selection from a backend database.\n\nInformation is collected from the
+    user in four input stages:\n<li><b>Fitness Level</b> &#8211; the difficulty level of the
+    workout. Users with a higher level of fitness will get a longer, more challenging workout.</li>
+    \n<li><b>Fitness Goal</b> &#8211; the type of training the user would like to undertake.
+    Selecting strength will give exercises with lower repetition ranges per set, which should be
+    performed with heavier weight. Choosing size will be give a medium repetition range for each
+    exercise and conditioning will give a high range.</li>\n<li><b>Muscle Groups</b> &#8211; which
+    muscle groups will be targeted during the workout.</li>\n<li><b>Equipment</b> &#8211; the
+    equipment available for the workout.</li>\nWhen the workout is generated, the result will be a
+    list of exercises that meet these criteria. Each exercise will include the number of sets and
+    reps to perform and a link to an online guide with information on how to perform the exercise.
+    An option is available to save the workout for later use.</string>
+
+    <!-- Toolbar -->
+
+    <string name="easyfit">EasyFit</string>
+    <string name="title_home">Home</string>
+    <string name="title_choose_level">Choose Level</string>
+    <string name="title_choose_goal">Choose Goal</string>
+    <string name="title_choose_muscle_groups">Choose Muscle Groups</string>
+    <string name="title_choose_equipment">Choose Equipment</string>
+    <string name="title_your_workout">Your Workout</string>
+    <string name="title_browse_workouts">Saved Workouts</string>
+    <string name="title_exercise_database">Exercise Database</string>
+    <string name="options_help">Help</string>
+    <string name="options_about">About</string>
+
+    <!-- Exercise Views -->
+
+    <string name="label_muscle_group">Muscle Group: </string>
+    <string name="label_utility">Utility: </string>
+    <string name="label_equipment">Equipment: </string>
+    <string name="label_url">Guide: </string>
+    <string name="placeholder_sets_reps">%1d x %1d</string>
+
+</resources>

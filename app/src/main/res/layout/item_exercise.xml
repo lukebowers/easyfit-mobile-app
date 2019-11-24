@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_exercise_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="Name"
+        android:textColor="#191919"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/tv_exercise_group_label"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_exercise_group_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/label_muscle_group"
+        android:textColor="#323232"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/tv_exercise_name"
+        app:layout_constraintTop_toBottomOf="@+id/tv_exercise_name" />
+
+    <TextView
+        android:id="@+id/tv_exercise_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:text="Group"
+        android:textColor="#323232"
+        app:layout_constraintStart_toEndOf="@+id/tv_exercise_group_label"
+        app:layout_constraintTop_toTopOf="@+id/tv_exercise_group_label" />
+
+    <TextView
+        android:id="@+id/tv_exercise_utility_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_utility"
+        android:textColor="#323232"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/tv_exercise_group_label"
+        app:layout_constraintTop_toBottomOf="@+id/tv_exercise_group_label" />
+
+    <TextView
+        android:id="@+id/tv_exercise_utility"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Utility"
+        android:textColor="#323232"
+        app:layout_constraintStart_toStartOf="@+id/tv_exercise_group"
+        app:layout_constraintTop_toBottomOf="@+id/tv_exercise_group" />
+
+    <TextView
+        android:id="@+id/tv_exercise_equipment_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_equipment"
+        android:textColor="#323232"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/tv_exercise_utility_label"
+        app:layout_constraintTop_toBottomOf="@+id/tv_exercise_utility_label" />
+
+    <TextView
+        android:id="@+id/tv_exercise_equipment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Equipment"
+        android:textColor="#323232"
+        app:layout_constraintStart_toStartOf="@+id/tv_exercise_utility"
+        app:layout_constraintTop_toBottomOf="@+id/tv_exercise_utility" />
+
+    <TextView
+        android:id="@+id/tv_exercise_url_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="@string/label_url"
+        android:textColor="#323232"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tv_exercise_equipment_label"
+        app:layout_constraintTop_toBottomOf="@+id/tv_exercise_equipment_label"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/tv_exercise_url"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="URL"
+        android:autoLink="web"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/tv_exercise_equipment"
+        app:layout_constraintTop_toBottomOf="@+id/tv_exercise_equipment"
+        app:layout_constraintVertical_bias="0.0" />
+</android.support.constraint.ConstraintLayout>
